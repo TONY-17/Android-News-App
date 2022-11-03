@@ -1,10 +1,7 @@
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Android News Application</h3>
+  <h1 align="center">Android News Application</h1>
 
   <p align="center">
       Java based android application that retrieves news articles. Supports searching and Filtering by news categories 
@@ -12,10 +9,19 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="#readme-demo">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="#readme-sreenshots">View Screenshots</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/TONY-17/Portfolio/issues">Request Feature</a>
   </p>
+  
+  
+  <a name="readme-demo"></a>
+  
+  
+  
+   <a name="readme-sreenshots"></a>
+   
+   
 </div>
