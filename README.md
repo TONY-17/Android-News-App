@@ -11,7 +11,7 @@
     <br />
     <a href="#readme-demo">View Demo</a>
     ·
-    <a href="https://github.com/TONY-17/Portfolio/issues">Request Feature</a>
+    <a href="https://github.com/TONY-17/Android-News-App/issues">Request Feature</a>
   </p>
   
   <a name="readme-demo"></a>
