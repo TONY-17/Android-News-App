@@ -16,8 +16,8 @@
   
   <a name="readme-demo"></a>
   ## Demo
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/TONY-17/Android-News-App/tree/main/app">
+    <img src="/newsCast.webp" alt="Screenshot" width="80" height="80">
   </a>
   
   
